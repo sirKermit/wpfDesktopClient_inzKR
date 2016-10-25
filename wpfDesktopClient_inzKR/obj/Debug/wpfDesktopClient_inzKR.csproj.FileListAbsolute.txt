@@ -1,0 +1,1 @@
+c:\users\ka_res\documents\visual studio 2015\Projects\wpfDesktopClient_inzKR\wpfDesktopClient_inzKR\bin\Debug\wpfDesktopClient_inzKR.exe.config
